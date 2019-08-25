@@ -16,3 +16,6 @@ This repository contains code-related content relevant to my [Medium](https://me
 
 **(6)**[Handling Big Data](https://github.com/mrdragonbear/dasktut)
 
+# Individual Articles
+
+**(1)** [Guide to R and Python in a Single Jupyter Notebook]()
