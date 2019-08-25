@@ -1,6 +1,6 @@
 # Articles
 
-This repository contains code-related content relevant to my [Medium](https://medium.com/@matthew_stewart) articles. This repository is the master repository containing links to all of my articles and secondary repositories related to specific topics in data science, machine learning, and artificial intelligence. This repository also acts as the 
+This repository contains code-related content relevant to my [Medium](https://medium.com/@matthew_stewart) articles. This repository is the master repository containing links to all of my articles and secondary repositories related to specific topics in data science, machine learning, and artificial intelligence.
 
 # Repositories
 
