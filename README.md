@@ -6,15 +6,15 @@ This repository contains code-related content relevant to my [Medium](https://me
 
 **(1)** [Neural Networks](https://github.com/mrdragonbear/Neural-Networks)
 
-**(2)**[Convolutional Neural Networks (CNNs)](https://github.com/mrdragonbear/CNNs)
+**(2)** [Convolutional Neural Networks (CNNs)](https://github.com/mrdragonbear/CNNs)
 
-**(3)**[Generative Adversarial Networks (GANs)](https://github.com/mrdragonbear/GAN-Tutorial)
+**(3)** [Generative Adversarial Networks (GANs)](https://github.com/mrdragonbear/GAN-Tutorial)
 
-**(4)**[Autoencoders](https://github.com/mrdragonbear/Autoencoders)
+**(4)** [Autoencoders](https://github.com/mrdragonbear/Autoencoders)
 
-**(5)**[Echo State Networks](https://github.com/mrdragonbear/EchoStateNetworks)
+**(5)** [Echo State Networks](https://github.com/mrdragonbear/EchoStateNetworks)
 
-**(6)**[Handling Big Data](https://github.com/mrdragonbear/dasktut)
+**(6)** [Handling Big Data](https://github.com/mrdragonbear/dasktut)
 
 # Individual Articles
 
