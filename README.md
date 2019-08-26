@@ -18,4 +18,4 @@ This repository contains code-related content relevant to my [Medium](https://me
 
 # Individual Articles
 
-**(1)** [Guide to R and Python in a Single Jupyter Notebook]()
+**(1)** [Guide to R and Python in a Single Jupyter Notebook](https://towardsdatascience.com/guide-to-r-and-python-in-a-single-jupyter-notebook-ff12532eb3ba)
